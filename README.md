@@ -12,3 +12,5 @@ You can use an optional 128x64 OLED Display with SH1106/SSD1306 Controller, to d
 The Lightsensor (BH1750) is optional too, it not need to be connected.
 The RFM69CW not need to be connected too, in this case, no wireless transmission is possible. The data where transmitted
 by the serial port only (115200 Baud).
+
+Main work was done by [Thomas (hdgucken) for FHEM] (https://github.com/amigatommy)

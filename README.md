@@ -13,4 +13,4 @@ The Lightsensor (BH1750) is optional too, it not need to be connected.
 The RFM69CW not need to be connected too, in this case, no wireless transmission is possible. The data where transmitted
 by the serial port only (115200 Baud).
 
-Main work was done by [Thomas (hdgucken) for FHEM](https://github.com/amigatommy)
+Main work was done by [Thomas (hdgucken) ](https://github.com/amigatommy) for FHEM with LaCrosseGateway 1.32.
